@@ -15,7 +15,7 @@ reference_version: 172a052038da944308a2bbeccb0d2e41
 - Make sure that the switcher says **You are connected to Akatsuki**  
 - Open osu! and login with your Akatsuki account  
 - Enjoy  
-_NOTE: If you can't install the certificate through the automatic procedure, follow [these instructions](/doc/4) to install it manually._  
+_NOTE: If you can't install the certificate through the automatic procedure, follow [these instructions](/doc/manual_cert) to install it manually._  
 
 ### How to play on official osu! again
 - Make sure osu! is **closed**  
@@ -25,4 +25,4 @@ _NOTE: If you can't install the certificate through the automatic procedure, fol
 _NOTE: If you want to connect to osu!'s website and you see Akatsuki's website or an error, even if the switcher claims you're connected to osu!, empty your browser cache and restart your browser._  
 
 ### Having troubles?
-Check out our [FAQ](/doc/2)
+Check out our [FAQ](/doc/faq)

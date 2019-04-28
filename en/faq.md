@@ -55,7 +55,7 @@ Fix: Refer to the first FAQ in the [Discord](https://discord.gg/5cBtMPW) to loca
 -----------------------
 
 - **Is there a patcher for Akatsuki?**
-- No, you can change server by editing the hosts file with our switcher. [Instructions here](/doc/1).
+- No, you can change server by editing the hosts file with our switcher. [Instructions here](/doc/connection_guide).
 
 -----------------------
 
