@@ -46,7 +46,7 @@ Aika has some commands similar to Tillerino. Those commands work only if you sen
 - `!system maintenance on/off` - Turn on/off bancho maintenance mode  
 - `!moderated on/off` - Turn on/off moderated mode for the current channel  
 - `!silence <username> <count> <unit (s/m/h/d)> <reason>` - Silence a user  
-- `!removesilence <target>` - Remove target's silence   
+- `!unsilence <target>` - Remove target's silence   
 - `!kick <username>` - Kick an user from the server  
 - `!ban <username>` - Ban and kick someone  
 - `!unban <username>` - Unban someone  
