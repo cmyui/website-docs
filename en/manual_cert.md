@@ -8,4 +8,4 @@ as this gif does:
 https://cdn.discordapp.com/attachments/365413867167285249/563698571954880522/install_cert_manually.gif.
 
 B. osu!Bancho page
-Fix: This means your hosts file actually was not written, or redirection is not working in some way, but somehow your osu! is still being redirected? Move to #help.
+Fix: This means your hosts file actually was not written, or redirection is not working in some way, but somehow your osu! is still being redirected? Move to the #help channel of our [Discord](https://discord.gg/5cBtMPW).
