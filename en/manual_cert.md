@@ -1,3 +1,8 @@
+---
+title: "Manually install our SSL Cert"
+old_id: 4
+---
+
 ### Manually installing our SSL Certificate
 
 This means that your hosts file has most likely successfully been redirected via the hosts file, but your certificate is somehow not working. Please check https://c.ppy.sh/ and refer to the possibilities below:
