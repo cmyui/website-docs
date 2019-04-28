@@ -1,6 +1,6 @@
 ---
-title: "Aika Commands"
-old_id: 3
+title: "Aika's Commands"
+reference_version: 89b6cfc1b7b2e17389bd61ac749a358b
 ---
 These are the commands supported by Aika, our chat bot.  
 

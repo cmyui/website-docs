@@ -1,6 +1,6 @@
 ---
 title: "SSL Cert"
-old_id: 4
+reference_version: b5d61efa1ca257bd1d15768453d12cb8
 ---
 Our SSL Certificate is required to connect via the latest releases of the osu! client (only version of osu! allowed on our server to begin with).
 

@@ -1,6 +1,6 @@
 ---
 title: "How to connect to Akatsuki"
-old_id: 1
+reference_version: 172a052038da944308a2bbeccb0d2e41
 ---
 - [Register](/register) an account  
 - Download the [Akatsuki server switcher](/static/switcher.exe)

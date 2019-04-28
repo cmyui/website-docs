@@ -1,6 +1,6 @@
 ---
 title: "Rules"
-old_id: 5
+reference_version: 8c12a11d12100bc74b6efa5916f577a0
 ---
 <h4 class="cenetered">Rules may be changed at any time as we see fit.<br>New rules may or may not be retroactive at our own discretion.</h4>
 
