@@ -59,11 +59,6 @@ Fix: Refer to the first FAQ in the [Discord](https://discord.gg/5cBtMPW) to loca
 
 -----------------------
 
-- **Can I have Akatsuki's source code?**
--  Akatsuki is mostly open source, you can see it [here](https://github.com/osuAkatsuki/).
-
------------------------
-
 - **Why are osu!direct and other in-game supporter perks free?**
 - We think that osu! direct is very cool and it's a shame people have to pay to have it, that's why we're offering it for free on Akatsuki. If you like what we do, please consider a [donation](/donate).
 
