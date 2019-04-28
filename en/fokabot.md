@@ -10,10 +10,14 @@ These are the commands supported by Aika, our chat bot.
 - `!help` - Display help message  
 - `!pp [mode]` - Show your current pp. If `mode` is not present, Aika will tell you the amount of PP for your current game mode. If mode is present (it can be `std/taiko/ctb/mania`), Aika will tell you the amount of PP for that gamemode. **This command works only in PMs**
 - `!update` - Update the beatmapset you've `/np`ed in our beatmap mirror. Use this if you've just downloaded a beatmap from osu!direct and it shows as outdated or if a beatmap can't be downloaded from osu!direct because it's too new.
-- `!request` - This allows users to nominate maps to be ranked, loved, or even unranked. Essentially, this will send a request to the members of the BN and QAT teams, and they will decide what happens with the map.
+- `!request <set/map> <beatmap_id> <game_mode>` - This allows users to nominate maps to be ranked, loved, or even unranked. Essentially, this will send a request to the members of the BN and QAT teams, and they will decide what happens with the map.
 - `!togglenotifs` - This allows users to toggle the notifications saying 'You have switched to Relax', and vice versa.
-
-And many more which need yet to be added to the documentation..
+- `!report <user>` - This allows users to report other users for things such as cheating, and breaking other rules.
+- `!bloodcat` (or `!q` for premium members) - This can be used in multiplayer, or in spectator mode to grab a quick link to download the map (Premium members get a direct akatsuki mirror link, which is generally <i>much</i> faster than bloodcat).
+- `!playtime` - This allows a user to check their total playtime on osu!Akatsuki.
+- `!contest` - This allows a user to check the current contests hosted by Akatsuki.
+- `!overwrite` <b>(Currently disabled)</b> - This allows a user to force their previous score to overwrite the score they previously had on the map.
+- `!last` - This allows a user to see details about their last played beatmap. While regular users can only use this command in private messages with Aika, Premium members can use it in all public chat channels.
 
 ### Faq commands
 - `!faq rules`
@@ -39,6 +43,13 @@ Aika has some commands similar to Tillerino. Those commands work only if you sen
 - `!last` - Show info (and gained PP, if it was an osu! standard score) about the last submitted score  
 - `!with <mods>` - Show PP for the previous requested beatmap with requested mods. Supported mods are `RX, NF, EZ, HD, HR, DT, HT, NC, FL, SO.`. Don't use spaces for multiple mods (eg: `!with HDHR` or `!with HDDTRX`)
 
+### Premium-only commands
+- `!c <newUsername>` - This allows users to change their username, without having to visit the website.
+- `!q` - Just like the bloodcat command, this can be used in multiplayer, or in spectator mode to grab a quick link to download the map. The only difference being, the map download is directly from Akatsuki and is generally <i>much</i> faster than the bloodcat download (which is also given as a fallback).
+
+### QAT-only commands
+- `!map <rank/love/unrank> <set/map> <beatmap_id> <game_mode>` - This allows the QAT member to change the ranked status of a beatmap.
+
 ### Admin commands
 - `!system restart` - Restart the server. Everyone will be disconnected and reconnected automatically  
 - `!system status` - Show server status  
@@ -55,3 +66,4 @@ Aika has some commands similar to Tillerino. Those commands work only if you sen
 - `!Aika reconnect` - Reconnect Aika if he's not on online users list anymore  
 - `!alert <message>` - Send a notification to every user connected to bancho  
 - `!alertuser  <username> <message>` - Send a notification to a specific user
+And many more undocumented commands..
