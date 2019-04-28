@@ -2,6 +2,7 @@
 title: "Manually install our SSL Cert"
 old_id: 4
 ---
+Our SSL Certificate is required to connect via the latest releases of the osu! client (only version of osu! allowed on our server to begin with).
 
 ### Manually installing our SSL Certificate
 
